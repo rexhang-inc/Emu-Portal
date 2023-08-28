@@ -4,7 +4,7 @@
 git clone xxx
 ...
 git remote -v
-git remote add upstream https://github.com/Ramaerel/emulatorjs-GameLibrary.git
+git remote add upstream https://github.com/EmulatorJS/EmulatorJS.git
 git remote -v
 git fetch upstream
 git branch -a
